@@ -1,6 +1,6 @@
 # Flutter Météo App
 
-Méteo obtenue en fonction de votre géolocation ou de la ville choisie.
+Application permettant d'obtenir la Méteo en fonction de la géolocation ou de la ville choisie.
 
 ### Compatible Android ou Ios
 
