@@ -48,13 +48,13 @@ class MeteoModel {
 
   String getMessage(int temp) {
     if (temp > 25) {
-      return 'It\'s 🍦 time';
+      return 'C\'est le moment pour 🍦 ';
     } else if (temp > 20) {
-      return 'Time for shorts and 👕';
+      return 'c\'est le moment pour les shorts et 👕';
     } else if (temp < 10) {
-      return 'You\'ll need 🧣 and 🧤';
+      return 'Vous aurez besoin d\'une 🧣 et de 🧤';
     } else {
-      return 'Bring a 🧥 just in case';
+      return 'Apportez un 🧥 juste au cas où';
     }
   }
 }

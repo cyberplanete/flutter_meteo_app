@@ -14,6 +14,7 @@ class Localisation {
       longitude = result.location.longitude;
     } else {
       switch (result.error.type) {
+        //todo A adapter aussi en français
         case GeolocationResultErrorType.runtime:
           print('runtime error, check result.error.message');
           break;
