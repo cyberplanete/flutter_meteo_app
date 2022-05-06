@@ -10,8 +10,7 @@ Application permettant d'obtenir la Méteo en fonction de la géolocation ou de 
 ### Android DropdownButton:
 
 
-<img src="screenshots/screenshot1.jpg" width="200">
-<img src="screenshots/screenshot2.jpg" width="200">
+<img src="screenshots/screenshot1.jpg" width="200"><img src="screenshots/screenshot2.jpg" width="200">
 
 
 
